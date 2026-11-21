@@ -1,0 +1,276 @@
+/* The Golden Oasis - Camp & Resort - responsive stylesheet */
+
+/* laptops and large tablets */
+@media (max-width: 1100px) {
+    h1 {
+        font-size: 2.9rem;
+    }
+    .hero-content h1 {
+        font-size: 3.4rem;
+    }
+    .main-nav a {
+        padding: 10px 8px;
+        font-size: 0.86rem;
+    }
+    .grid-4 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .footer-grid {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+/* tablets - the menu opens with the hamburger checkbox */
+@media (max-width: 960px) {
+    :root {
+        --header-height: 68px;
+    }
+    .nav-toggle {
+        display: block;
+    }
+    .main-nav {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        height: calc(100vh - var(--header-height));
+        background: var(--dark);
+        overflow-y: auto;
+        transform: translateX(-100%);
+        transition: transform 0.4s ease;
+        padding: 10px 5% 40px;
+    }
+    .menu-check:checked ~ .main-nav {
+        transform: translateX(0);
+    }
+    .main-nav > ul {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0;
+    }
+    .main-nav a {
+        padding: 13px 4px;
+        border-bottom: 1px solid #33241a;
+        font-size: 1rem;
+    }
+    .has-drop > a::after {
+        content: "";
+    }
+    .dropdown {
+        position: static;
+        opacity: 1;
+        visibility: visible;
+        transform: none;
+        box-shadow: none;
+        border: 0;
+        background: #2a1c12;
+        border-radius: 0;
+        padding: 0;
+    }
+    .dropdown a {
+        color: #d9c9b3;
+        padding-left: 20px;
+        font-size: 0.92rem;
+    }
+    .dropdown a:hover,
+    .dropdown a.active {
+        background: transparent;
+        color: var(--gold);
+    }
+    .nav-actions .btn {
+        padding: 8px 16px;
+        font-size: 0.85rem;
+    }
+    .split,
+    .booking-layout,
+    .detail-layout {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+    .badge-box {
+        right: 10px;
+        bottom: -20px;
+    }
+    .grid-3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .summary-box {
+        position: static;
+    }
+    .amenities {
+        column-gap: 40px;
+    }
+    .scene-thumbs {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/* mobile phones */
+@media (max-width: 680px) {
+    body {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 2.3rem;
+    }
+    h2 {
+        font-size: 2rem;
+    }
+    h3 {
+        font-size: 1.4rem;
+    }
+    .tb-left {
+        display: none;
+    }
+    .topbar .container {
+        justify-content: center;
+    }
+    .logo-text {
+        font-size: 1.1rem;
+    }
+    .logo-badge {
+        width: 46px;
+        height: 46px;
+    }
+    .nav-actions .btn {
+        display: none;
+    }
+    .hero {
+        min-height: 520px;
+        height: 82vh;
+    }
+    .hero-content {
+        padding-bottom: 20px;
+    }
+    .hero-content h1 {
+        font-size: 2.4rem;
+    }
+    .hero-content p {
+        font-size: 1rem;
+    }
+    .slider-dots {
+        margin-top: 24px;
+    }
+    .page-hero {
+        height: 290px;
+    }
+    .section {
+        padding: 60px 0;
+    }
+    .section-title {
+        margin-bottom: 34px;
+    }
+    .directory-grid,
+    .grid-2,
+    .grid-3,
+    .grid-4 {
+        grid-template-columns: 1fr;
+    }
+    .form-row,
+    .form-row-3 {
+        grid-template-columns: 1fr;
+        gap: 0;
+    }
+    .form-card {
+        padding: 22px;
+    }
+    .nights-form {
+        flex-direction: column;
+        gap: 0;
+    }
+    .nights-form .form-group {
+        width: 100%;
+    }
+    .nights-form .btn {
+        margin-top: 10px;
+        width: 100%;
+    }
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+    .footer-bottom .container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-bottom a {
+        margin: 0 7px;
+    }
+    .split-img img {
+        height: 300px;
+    }
+    .photo-viewer .main-photo {
+        height: 260px;
+    }
+    .thumbs img {
+        height: 80px;
+    }
+    .amenities {
+        grid-template-columns: 1fr;
+    }
+    .amenities-wrap {
+        padding: 34px 20px 24px;
+    }
+    .amen-title {
+        font-size: 2rem;
+        margin-bottom: 24px;
+    }
+    .testi-item {
+        padding: 10px;
+    }
+    .testi-item blockquote {
+        font-size: 1.25rem;
+    }
+    .tour-viewer {
+        height: 340px;
+    }
+    .scene-thumbs {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .booking-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .bi-actions {
+        justify-content: flex-start;
+    }
+    .ticket-grid {
+        grid-template-columns: 1fr;
+    }
+    .ticket-id {
+        text-align: left;
+    }
+    .success-box {
+        padding: 34px 20px;
+    }
+    .menu-item {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .menu-item img {
+        width: 100%;
+        height: 150px;
+    }
+    .lb-prev,
+    .lb-next {
+        top: auto;
+        bottom: 30px;
+        transform: none;
+    }
+    .gallery-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+    }
+    .gallery-item {
+        height: 160px;
+    }
+}
+
+@media (max-width: 400px) {
+    .gallery-grid {
+        grid-template-columns: 1fr;
+    }
+    .hero-btns .btn {
+        width: 100%;
+    }
+}

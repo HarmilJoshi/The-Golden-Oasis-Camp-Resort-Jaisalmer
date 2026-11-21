@@ -1,0 +1,93 @@
+THE GOLDEN OASIS - CAMP & RESORT
+Image list and sources
+
+All website images are local files in the images folder.
+Run download-images.bat once (double-click it) to download them.
+
+Unsplash photos: free to use under the Unsplash License (https://unsplash.com/license).
+Wikimedia Commons photos: free licences (mostly CC BY-SA), credit the author shown on the file page.
+
+File                          Website             Source page
+--------------------------------------------------------------------------------------------------------------
+aloo-paratha.jpg              Unsplash            https://images.unsplash.com/photo-1788538397295-41114c76044d
+badminton.jpg                 Unsplash            https://images.unsplash.com/photo-1758798460018-d86989b9524b
+ball.jpg                      Unsplash            https://images.unsplash.com/photo-1502086223501-7ea6ecd79368
+bed1.jpg                      Unsplash            https://images.unsplash.com/photo-1680503146454-04ac81a63550
+bed2.jpg                      Unsplash            https://images.unsplash.com/photo-1658595148963-13b7da6dcd6d
+bed3.jpg                      Unsplash            https://images.unsplash.com/photo-1576354302919-96748cb8299e
+beds-stars.jpg                Unsplash            https://images.unsplash.com/photo-1527419105721-af1f23c86dec
+bird1.jpg                     Unsplash            https://images.unsplash.com/photo-1593099835086-d1ba73cfd057
+bird2.jpg                     Unsplash            https://images.unsplash.com/photo-1511767436210-99cbb91f1911
+bird3.jpg                     Unsplash            https://images.unsplash.com/photo-1612298484643-c87eefadab74
+bird4.jpg                     Unsplash            https://images.unsplash.com/photo-1593099834593-26490349aaf5
+bonfire-desert.jpg            Unsplash            https://images.unsplash.com/photo-1613169660691-f0e9603b74d0
+cafe-bulbs.jpg                Unsplash            https://images.unsplash.com/photo-1511081692775-05d0f180a065
+cafe1.jpg                     Unsplash            https://images.unsplash.com/photo-1554118811-1e0d58224f24
+camel-group.jpg               Unsplash            https://images.unsplash.com/photo-1535191059345-c16453b851b2
+camel-man.jpg                 Unsplash            https://images.unsplash.com/photo-1616693139578-f1c17deb0d4f
+camel-ride.jpg                Unsplash            https://images.unsplash.com/photo-1602858659965-ea6f743b7679
+camel-sunset.jpg              Unsplash            https://images.unsplash.com/photo-1709620220232-12ecd7ca33a8
+camels3.jpg                   Unsplash            https://images.unsplash.com/photo-1654245363109-b873bb61b2fa
+camp-seating.jpg              Unsplash            https://images.unsplash.com/photo-1757438059326-f53e8a5adf46
+camp-sunset.jpg               Unsplash            https://images.unsplash.com/photo-1765192174719-5979a0a42572
+cappuccino.jpg                Unsplash            https://images.unsplash.com/photo-1541167760496-1628856ab772
+chicken-tikka-masala.jpg      Unsplash            https://images.unsplash.com/photo-1742599361574-6fb156181466
+club-sandwich.jpg             Unsplash            https://images.unsplash.com/photo-1553909489-cd47e0907980
+cold-coffee.jpg               Unsplash            https://images.unsplash.com/photo-1559496417-e7f25cb247f3
+court-arch.jpg                Unsplash            https://images.unsplash.com/photo-1760261131012-f63e216ecdb9
+court-pool.jpg                Unsplash            https://images.unsplash.com/photo-1760261799672-2469a6c4c6f3
+croissant.jpg                 Unsplash            https://images.unsplash.com/photo-1542372147193-a7aca54189cd
+cyc1.jpg                      Unsplash            https://images.unsplash.com/photo-1668106601849-e21e72c2c563
+cyc2.jpg                      Unsplash            https://images.unsplash.com/photo-1760630662720-992b32425b85
+cyc3.jpg                      Unsplash            https://images.unsplash.com/photo-1765655381576-175ba48e756e
+dal-baati-churma.jpg          Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Rajasthani_Dal-baati-churma.jpg
+dance-pots.jpg                Unsplash            https://images.unsplash.com/photo-1757451631936-a4d7a51954c0
+desert-land.jpg               Unsplash            https://images.unsplash.com/photo-1489573280374-2e193c63726c
+desert3.jpg                   Unsplash            https://images.unsplash.com/photo-1617374128851-c84e37dc9f37
+dome.jpg                      Unsplash            https://images.unsplash.com/photo-1757438059221-5f2dede2c318
+dunes.jpg                     Unsplash            https://images.unsplash.com/photo-1542401886-65d6c61db217
+fire2.jpg                     Unsplash            https://images.unsplash.com/photo-1632211663769-f67b63ff5102
+frisbee.jpg                   Unsplash            https://images.unsplash.com/photo-1725724700664-d01e2f223ed9
+gatte-ki-sabzi.jpg            Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Besan_Ke_Gatte.JPG
+ghewar.jpg                    Wikimedia Commons   https://commons.wikimedia.org/wiki/File:GhevarRajasthaniSweet.jpg
+glow-tent.jpg                 Unsplash            https://images.unsplash.com/photo-1750802384184-cee359741961
+grill.jpg                     Unsplash            https://images.unsplash.com/photo-1555939594-58d7cb561ad1
+hallway.jpg                   Unsplash            https://images.unsplash.com/photo-1630587148265-761cbd139043
+hill-night.jpg                Unsplash            https://images.unsplash.com/photo-1723748885089-68e33a76dd7d
+jsm-table.jpg                 Unsplash            https://images.unsplash.com/photo-1676193361626-debc2960b1c4
+ker-sangri.jpg                Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Ker_Sangri.jpg
+kesar-badam-milk.jpg          Unsplash            https://images.unsplash.com/photo-1517448931760-9bf4414148c5
+kids3.jpg                     Unsplash            https://images.unsplash.com/photo-1607453998774-d533f65dac99
+kulhad-chai.jpg               Unsplash            https://images.unsplash.com/photo-1761483281417-778013dc0177
+laal-maas.jpg                 Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Lal_Mans-NCR.jpg
+lime-soda.jpg                 Unsplash            https://images.unsplash.com/photo-1621263764928-df1444c5e859
+lux-room.jpg                  Unsplash            https://images.unsplash.com/photo-1578683010236-d716f9a3f461
+masala-chai.jpg               Unsplash            https://images.unsplash.com/photo-1630748662359-40a2105640c7
+masala-dosa.jpg               Unsplash            https://images.unsplash.com/photo-1668236543090-82eba5ee5976
+masala-omelette.jpg           Unsplash            https://images.unsplash.com/photo-1572453412812-bc246f2a1944
+mirchi-vada.jpg               Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Jodhpuri_Mirchi_Bada.jpg
+moong-dal-halwa.jpg           Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Moong_dal_ka_halwa.jpg
+paneer-tikka.jpg              Unsplash            https://images.unsplash.com/photo-1793093399980-78c115de8377
+parachute.jpg                 Unsplash            https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5
+people-hill.jpg               Unsplash            https://images.unsplash.com/photo-1677838929227-e0fc8a5885ea
+poha-jalebi.jpg               Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Poha_the_staple_breakfast_of_India,_with_Jalebi.jpg
+pool-palms.jpg                Unsplash            https://images.unsplash.com/photo-1551882547-ff40c63fe5fa
+pyaaz-kachori.jpg             Wikimedia Commons   https://commons.wikimedia.org/wiki/File:Jodhpuri_Kanda(Pyaaz)_Kachori.jpg
+raft1.jpg                     Unsplash            https://images.unsplash.com/photo-1760904591523-b70b6bceeb1e
+raft2.jpg                     Unsplash            https://images.unsplash.com/photo-1512675628397-28288d1220ef
+raft3.jpg                     Unsplash            https://images.unsplash.com/photo-1709810953776-ee6027ff8104
+rajasthani-thali.jpg          Wikimedia Commons   https://commons.wikimedia.org/wiki/File:A_traditional_Rajasthani_Thali.JPG
+seekh-kebab.jpg               Unsplash            https://images.unsplash.com/photo-1599487488170-d11ec9c172f0
+spices.jpg                    Unsplash            https://images.unsplash.com/photo-1784501025488-001592b6ee31
+spread.jpg                    Unsplash            https://images.unsplash.com/photo-1728910156510-77488f19b152
+spread2.jpg                   Unsplash            https://images.unsplash.com/photo-1682862279256-b2a9e4f3d22c
+suv.jpg                       Unsplash            https://images.unsplash.com/photo-1596602932647-36c88650de9e
+swing.jpg                     Unsplash            https://images.unsplash.com/photo-1577896852336-e749dd04f202
+tent-desert.jpg               Unsplash            https://images.unsplash.com/photo-1677836292241-42a980172dd9
+tent-field.jpg                Unsplash            https://images.unsplash.com/photo-1677836157562-5e24481b6b69
+tent-night.jpg                Unsplash            https://images.unsplash.com/photo-1613169620329-6785c004d900
+tents.jpg                     Unsplash            https://images.unsplash.com/photo-1697666326566-a405766d995f
+twin1.jpg                     Unsplash            https://images.unsplash.com/photo-1657639754502-3c138cb24b4c
+twin2.jpg                     Unsplash            https://images.unsplash.com/photo-1683237854712-adb97a9eaa80
+twin3.jpg                     Unsplash            https://images.unsplash.com/photo-1744187170989-0da1811af435
+walk-dunes.jpg                Unsplash            https://images.unsplash.com/photo-1557352312-513f8b12de2b
